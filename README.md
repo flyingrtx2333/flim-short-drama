@@ -7,7 +7,7 @@
 将仓库克隆到 Codex 的个人技能目录。默认位置如下；设置了 `CODEX_HOME` 时使用其 `skills` 子目录。
 
 ```sh
-git clone https://github.com/flyingrtx2333/film-short-drama.git ~/.codex/skills/film-short-drama
+git clone https://github.com/flyingrtx2333/flim-short-drama.git ~/.codex/skills/film-short-drama
 ```
 
 如果目录已存在，先备份原技能，再选择更新方式，避免覆盖本地修改。重新打开 Codex 会话以加载技能。
